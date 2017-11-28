@@ -1,5 +1,8 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "guzzlehttp@iglue/guzzle",
+    "replace": {
+        "guzzlehttp/guzzle": "6.3.0"
+    },
     "type": "library",
     "description": "Guzzle is a PHP HTTP client library",
     "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
